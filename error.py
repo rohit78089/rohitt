@@ -1,4 +1,7 @@
-a=10
-b=20
-c=a+b 
-print("sum is", d)
+{
+  "name": "snyk-demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
